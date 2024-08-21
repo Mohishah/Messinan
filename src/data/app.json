@@ -1,0 +1,112 @@
+{
+    "settings": {
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "text": "Messinan",
+            "accent": "."
+        },
+        "menu": [
+            {
+                "label": "خانه",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "تیم ما",
+                "link": "/team",
+                "children": 0
+            },
+            {
+                "label": "درباره ما",
+                "link": "/about",
+                "children": 0
+            },
+            {
+                "label": "خدمات ما",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "نمونه کارها",
+                "link": "/portfolio",
+                "children": 0
+            },
+            {
+                "label": "وبلاگ",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "تماس با ما",
+                "link": "/contact",
+                "children": 0
+            }
+            
+        ]
+    },
+    "footer": {
+        "menu": [
+            {
+                "label": "خانه",
+                "link": "/"
+            },
+            {
+                "label": "درباره ما",
+                "link": "about"
+            },
+            {
+                "label": "تیم ما",
+                "link": "team"
+            },
+            {
+                "label": "تماس با ما",
+                "link": "contact"
+            }
+        ],
+        "links": [
+            {
+                "label": "مقالات",
+                "link": "blog"
+            },
+            {
+                "label": "نمونه کارها",
+                "link": "/portfolio"
+            },
+            {
+                "label": "خدمات ما",
+                "link": "/services"
+            }
+        ]
+    },
+    "contacts": {
+        "email": "mil.design.inbox@mail.com",
+        "tel": "021-88888164"
+    },
+    "social": [
+        {
+            "link": "https://behance.net",
+            "icon": "fab fa-behance",
+            "title": "Behance"
+        },
+        {
+            "link": "https://dribbble.com",
+            "icon": "fab fa-dribbble",
+            "title": "Dribbble"
+        },
+        {
+            "link": "https://twitter.com",
+            "icon": "fab fa-twitter",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://instagram.com",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        }
+    ]
+}
